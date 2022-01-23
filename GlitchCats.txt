@@ -6,4 +6,4 @@ Welcome user (some glitched text or smth) .<!-- laglaglaglaglaglaglaglaglaglagla
 
 <a href="www.twitter.com/glitchcatsnft/">@GlitchCatsNFT</a>
 
-<span id="k">[ - ░░░░░░░░░░</span>░░░░░░░░░░░░░░░░░░░ - ]
+<span id="k">[ - ░░░░░░░░░░</span><span id="wk">░░░░░░░░░░░░░░░░░░░ - ]</span>
