@@ -37,6 +37,10 @@ a {
     	animation: change 1s;
 }
 
+#wk {
+    	animation: wchange 1s;
+}
+
 #op{
     	color: #888888
 }
@@ -45,4 +49,10 @@ a {
     	0%  { color:  #0f0; }
     	50% { color:  #0f0; }
     	99% { color: black; }
+}
+
+@keyframes wchange {
+	0%  { color:  #fff; }
+	50% { color:  #fff; }
+	99% { color: black; }
 }
